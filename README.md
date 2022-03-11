@@ -1,2 +1,2 @@
-# File Host testing
-> Simple Redirect in plain html
+# Fun Page xD
+> This is just a webpage built for fun
